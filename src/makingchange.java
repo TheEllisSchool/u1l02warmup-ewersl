@@ -12,7 +12,7 @@ public class makingchange {
 		int nickles = cents/5; 
 		int pennies = cents - nickles * 5;
 		
-		JOptionPane.showMessageDialog(null, num + "is " + nickles + "nickels " + pennies + "pennies )");
+		// JOptionPane.showMessageDialog(null, num + "is " + nickles + "nickels " + pennies + "pennies )");
 		
 		
 	
